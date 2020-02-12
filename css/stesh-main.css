@@ -721,7 +721,7 @@ nav a:hover::before {
 .footer .content {
 	left: 30%;
 	width: 70%;
-	max-width: 70%;
+	max-width: 50%;
 	position: absolute;
 	bottom: 0;
 	right: 0;
